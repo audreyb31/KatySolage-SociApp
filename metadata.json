@@ -1,0 +1,7 @@
+{
+  "name": "KatySolage SociApp",
+  "description": "L'assistant marketing personnel de Katy pour Laboratoires SOLAGE",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
